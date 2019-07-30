@@ -3,9 +3,8 @@ title: 2066 Crist Drive
 subtitle: Burn Different
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: garage.jpeg
+thumbnail: garage-thumbnail.jpeg
 alt: image-alt
 offered-at: $150,000
 description: Here at Mirage Garage, we like to pay tribute to the various garages around the world that have been the homes of the businesses that have netted us millions in stock. Our favorite garage of course is 2066 Crist Drive, home to the legendary business who managed to convince the world that buying an over-priced mass produced by exploited slave labor item made you a forward thinking creative genius. This campsite is modeled after that garage, although this one contains a King sized bed, a mini-bar, air conditioning, and a ten foot portrait of the great Jobs himself thinking different over the bed. Note that this unit does NOT have a medicine cabinet in it, although it comes with an unlimited supply of fruit smoothies.

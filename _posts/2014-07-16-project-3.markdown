@@ -3,11 +3,9 @@ title: I Scream, You Scream, We All Scream for Airstream
 subtitle: Because RVs are so Passé
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: airstream.png
+thumbnail: airstream-thumbnail.png
 alt: image-alt
-project-date: April 2014
 offered-at: $80,000
 description: Any commoner can rent a RV through Share My Coach and drag it out to the Playa, but a true connoisseur of the Playa knows that the way to go is with an Airstream. Here at the Garage, we're a sucker for anything that sort of fits in to the car or stainless steel theme, so we're pleased to offer an Airstream as an option. This bad boy gets polished each day by the Pit Crew so that it always looks fresh and more shiny than the pure silver plates that we use to serve our camp meals on (on which you'll be forced to serve at least one, so that we can claim that we're 100% participatory!). Various vintage Airstreams are available, so accommodations will vary depending on what year you find acceptable.
 
