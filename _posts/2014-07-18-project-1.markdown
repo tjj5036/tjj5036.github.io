@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Basic Economy
+subtitle: Although We Swear Camping With Us Doesn't Make You Basic!
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+offered-at: $10,000
+description: Some of our campers just want to Burn with a nice feather mattress and hot shower to return to at the end of the day, and some just want to rage and get ratchet the entire time. This option is perfect for those that are planning on spending no time at camp and all of their time in front of the sound camps in a state of drugged fueled bliss in an attempt to hit every DJ with an active Soundcloud playing and only need something portable to sustain them. The Mirage Garage branded backpack supplied is packed full of every drug and stimulant you would need to last three days on the Playa without returning to base. Sunrise is coming up and you're miles away from a cup of coffee? No problem, take a bump on some of that cocaine to keep going! Muscle tension from dancing all night and you haven't had the opportunity to stretch or rub one out in the portashitter yet? Nothing a little GHB can't take care of! Additional provisions can be purchased to refill the backpack onsite for varying fees, although note that purchasing an additional bag is prohibited as only one personal item is allowed.
 
 ---

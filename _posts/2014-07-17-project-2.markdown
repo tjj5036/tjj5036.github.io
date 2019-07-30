@@ -1,15 +1,13 @@
 ---
-title: Escape
-subtitle: Website Design
+title: It Takes Fyre To Burn
+subtitle: And a Dope Tent
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+offered-at: $20,000
+description: It's been a rough year for some of our campers at other festivals. Some had to walk nearly two miles to see Kayne play at Coachella this past year, some had to get their own rides from the BRC Airport because the Pit Crew was too busy to pick them up, and some had to endure a less than a stellar experience at the Fyre Festival. Well have no fear! For those that were unlucky enough to NOT get a tent at Fyre this past year and had to rough it out on the beach with a bunch of sunburnt bros Mirage Garage is pleased to offer the FEMA tents that you missed out on! These tents were battle tested by attendees last year, and anyone that managed to secure one can attest to their luxury. Some of these are quite famous, having been featured in several documentaries. Each tent comes with a sopping wet mattress, which is quite the feat once you consider you're in the middle of a desert! Unfortunately, Ja Rule won't be onsite to escort you to your tent this time, but we did manage to find P-Diddy at the airport as a substitute.
 
 ---

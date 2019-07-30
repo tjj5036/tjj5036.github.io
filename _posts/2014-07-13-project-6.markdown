@@ -1,15 +1,13 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Let the Goodell Times Roll
+subtitle: Someone's Gotta Pay the Bills!
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+offered-at: $261,000
+description: Mirage Garage wouldn't happen without a lot of people. The Sherpas, the Pit Crew, the Bike Czar, and the personal chefs are all important, but none of it would happen without the Burning Man Founders. Without their blessing, this camp wouldn't exist in the first place! Camping here directly helps our biggest supporter and backer, and its what allows us to come to the Burn year after year without repercussion. This 18 Wheeler is packed full of amenities. A gold-plated shower, a fully stocked mini-bar and regular sized bar, a king sized bed with a mattress full of feathers handpicked from around the world, your own dedicated concierge, a sauna and hot tub, air conditioning, and a personal art car awaits you in this luxurious living space.
 
 ---

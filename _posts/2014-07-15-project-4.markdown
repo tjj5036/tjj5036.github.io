@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Fatana Morgana
+subtitle: It's Expensive Because It Sounds Fancy
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -8,8 +8,7 @@ img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+offered-at: $100,000
+description: What's that at the edge of the Playa shimmering in the distance.... is it an Oasis? Is it a naked old dude on a bike? Is it a dirty wook berating someone for not sharing water with them because they don't know that the Playa Provides? Or is it actually your luxurious housing for your time at the Burn? This room pays tribute to the great Mirage that our camp is partially named after. This room is so swanky that you'd be right in thinking that it is indeed a mirage. The BOrg apparently has also mistaken the entire complex for a mirage and convinced themselves that it doesn't exist, which is why it probably hasn't been shut down yet! This room comes with a hot tub with sand at the bottom for that authentic Desert Oasis experience, as well as palm trees providing shade.
 
 ---
