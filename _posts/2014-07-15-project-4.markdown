@@ -1,5 +1,5 @@
 ---
-title: Fatana Morgana
+title: Fata Morgana
 subtitle: It's Expensive Because It Sounds Fancy
 layout: default
 modal-id: 4
